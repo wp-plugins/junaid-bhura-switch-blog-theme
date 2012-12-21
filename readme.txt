@@ -7,7 +7,7 @@ Stable tag: 0.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-If you run WordPress as a CMS or if your site consists primarily of Pages, there's a chance you might want your blog to look quite different from the rest of your site.
+If you run WordPress as a CMS or if your site consists primarily of Pages, you might want your blog to look quite different from your site.
 
 == Description ==
 
